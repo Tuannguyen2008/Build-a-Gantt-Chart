@@ -1,6 +1,6 @@
 # Build a Ship Maintenance and Docking Gantt Chart
 
-This project generates an interactive Gantt chart displaying the maintenance and docking periods of ships using Python and Plotly. The chart differentiates between maintenance and docking periods by color and displays the duration of each period on hover. This README explains the steps to set up, run the code, and any dependencies required.
+This project generates an interactive Gantt chart displaying the maintenance and docking periods of ships using Python. The chart differentiates between maintenance and docking periods by color and displays the duration of each period on hover. This README explains the steps to set up, run the code, and any dependencies required.
 
 ## Dependencies
 To run this code, you'll need:
