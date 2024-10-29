@@ -5,15 +5,19 @@ This project generates an interactive Gantt chart displaying the maintenance and
 ## Dependencies
 To run this code, you'll need:
 - Python (version 3.7 or higher)
-- Pandas for data manipulation
-- Plotly for data visualization
+- Matplotlib - for creating the plot and visualizations.
+- Mplcursors - for adding interactive tooltips.
+- Pandas - for loading and handling the dataset.
 
 ## Installation
 To install pandas
 - pip install pandas 
 
-To install plotly
-- pip install plotly
+To install Mplcursors
+- pip install pandas matplotlib mplcursors
+
+To install Maplotlib
+- pip install matplotlib
 
 ## Run the project
 1. Clone the project to your working directory, or download the project directly. 
