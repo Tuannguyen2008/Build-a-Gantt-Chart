@@ -24,9 +24,7 @@ To install plotly
 
 3. Run the Python Script:
 - In your command line, navigate to the project directory and run the following command: python buildAGanttChart.py
-- Alternatively, open the buildAGanttChart.py file in VS Code.
-    # To run the script:
-  - Press F5 to start debugging (or Ctrl+F5 to run without debugging).
+- Alternatively, open the buildAGanttChart.py file in VS Code: Press F5 to start debugging (or Ctrl+F5 to run without debugging).
 
 
 
