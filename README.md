@@ -17,7 +17,7 @@ To install plotly
 
 ## Run the project
 1. Clone the project to your working directory, or download the project directly. 
-- git clone (project_URL)
+- git clone https://github.com/Tuannguyen2008/Build-a-Gantt-Chart.git
 
 2. Check the Python File:
 - Open the buildAGanttChart.py file in a code editor (e.g., Visual Studio Code, PyCharm, or Jupyter Notebook). This file likely contains the code that reads the data from GanttChartDataSet.xlsx, processes it, and generates a Gantt chart.
